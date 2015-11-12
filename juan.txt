@@ -1,6 +1,6 @@
 
-este es el archivo creado por Juan García Orozco
+este es el archivo creado por Juan García Vega Antonaccio
 
 esta es una nueva linea men.
 Esta linea es a mano para resolver el conflicto
-no me rompais el archivo
+
