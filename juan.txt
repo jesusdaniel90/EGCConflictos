@@ -1,2 +1,10 @@
 
+<<<<<<< HEAD
 este es el archivo creado por Juan García Vega Antonaccio
+=======
+este es el archivo creado por Juan García Orozco
+
+
+
+no me rompais el archivo
+>>>>>>> 1c69a4b5fbc4aac05d204d72ab903b9d8367670b
